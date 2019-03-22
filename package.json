@@ -1,0 +1,31 @@
+{
+  "name": "react-stocksharts-custom-tooltip",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "d3": "^5.9.2",
+    "d3-array": "^2.0.3",
+    "d3-dsv": "^1.1.1",
+    "d3-format": "^1.3.2",
+    "d3-time-format": "^2.1.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-scripts": "2.1.8",
+    "react-stockcharts": "^0.7.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
